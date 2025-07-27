@@ -44,14 +44,13 @@ This audit analytics approach aligns with:
 
 | Audit Test Name                         | Description                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------|
-| **Duplicate Payment Checks**           | Flags repeated transfers of same amount from same sender                   |
+| **balance_mismatch**                   | Flags mismatch between expected and actual account balances post-transaction|                   
 | **High-Value Transactions**            | Flags payments over $200,000                                               |
 | **Fraud Indicators (isFraud)**         | Pre-labeled fraudulent transactions                                        |
 | **Flagged Fraud (isFlaggedFraud)**     | System-flagged transactions                                                |
 | **Balance Discrepancy Detection**      | Detects abnormal balance movements post-transaction                        |
 | **Multi-Destination Transfers**        | Sender sends to >3 recipients in a short window                            |
 | **Cash Out Alerting**                  | Flags large ‘CASH_OUT’ amounts                                             |
-| **Time Step Analysis**                 | Tracks spikes in fraud over time                                           |
 | **Risk Score Assignment**              | Custom audit score based on red flag combination                          |
 
 ---
