@@ -18,7 +18,6 @@ This audit analytics approach aligns with:
 - **ISA 315 – Identifying and Assessing Risks of Material Misstatement**
 - **ISA 330 – Auditor Responses to Assessed Risks**
 
-It reflects **how firms like Deloitte, EY, PwC, and KPMG** are leveraging data to move from sample-based to full-population audit procedures using analytics.
 
 ---
 
@@ -89,7 +88,8 @@ Easy to adapt to ERP/ledger data (SAP, Oracle, etc.)
 This audit simulation project blends data analytics with audit logic to detect fraud risk and control weaknesses. It showcases the potential for data-driven auditing that Big 4 firms are actively investing in. Designed to impress audit recruiters and demonstrate audit data maturity.
 
 ## 👤 Author
-Ashik Thomas
+Ashik Thomas,
+
 ACCA Part Qualified
 
 
