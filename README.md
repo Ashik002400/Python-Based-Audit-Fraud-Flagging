@@ -86,16 +86,23 @@ A risk scoring system helps auditors focus on the top 0.5% of high-risk transact
 This project simulates a digitally enabled audit approach where the auditor:
 
 -Applies custom fraud red flags to transactional data
+
 -Aggregates them into a risk score per transaction
+
 -Focuses testing effort on high-risk buckets (score ≥ 3)
+
 -Visualizes audit risk trends using boxplots and heatmaps
 
 
 ## 🧰 Skills Demonstrated
 -Red flag engineering using Python (Pandas, NumPy)
+
 -Audit logic design in line with ISA 240 (fraud risk)
+
 -Data visualization with Seaborn and Matplotlib
+
 -Exploratory Data Analysis (EDA) and risk scoring
+
 -Practical application of audit analytics in a real-world context
 
 
