@@ -55,6 +55,14 @@ This audit analytics approach aligns with:
 
 ---
 
+## 📷Screenshots of Python Outputs
+- screenshot of correlation Heatmap of audit flags and fraud
+- [correlation Heatmap of audit flags and fraud](images/correlation Heatmap of audit flags and fraud.png)
+- screenshot of Transaction amounts by Risk score
+- [Transaction amounts by Risk score](images/Transaction amounts by Risk score.png)
+- screenshot of Risk Fraud Summary
+- [Risk Fraud Summary](images/Risk Fraud Summary.png)
+
 ## 📈 Key Findings & Insights
 
 🛑 **Fraud volume is low, but value is very high.**  
