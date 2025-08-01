@@ -63,6 +63,7 @@ This audit analytics approach aligns with:
 - screenshot of Risk Fraud Summary:
 - ![Risk Fraud Summary](images/Risk_Fraud_Summary.png)
 
+---
 
 ## 📈 Key Findings & Insights
 
@@ -93,6 +94,7 @@ This project simulates a digitally enabled audit approach where the auditor:
 
 -Visualizes audit risk trends using boxplots and heatmaps
 
+---
 
 ## 🧰 Skills Demonstrated
 -Red flag engineering using Python (Pandas, NumPy)
@@ -105,6 +107,7 @@ This project simulates a digitally enabled audit approach where the auditor:
 
 -Practical application of audit analytics in a real-world context
 
+---
 
 ## 📎 Audit-Relevant Takeaways
 Demonstrates end-to-end red flag testing logic
@@ -115,8 +118,13 @@ Mimics automated risk scoring workflows used in digital audit teams
 
 Easy to adapt to ERP/ledger data (SAP, Oracle, etc.)
 
+
+---
+
 ##  🏁 Conclusion
 This audit simulation project blends data analytics with audit logic to detect fraud risk and control weaknesses. It showcases the potential for data-driven auditing that Big 4 firms are actively investing in. Designed to impress audit recruiters and demonstrate audit data maturity.
+
+---
 
 ## 👤 Author
 Ashik Thomas,
